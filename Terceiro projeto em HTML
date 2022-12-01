@@ -3,7 +3,16 @@
 Para copiar código em HTML:
 ´´´
 
+<!DOCTYPE html>
 <html>
-<h1>Meu terceiro projeto em HTML</h1>
+
+<head>
+ <title>Meu terceiro projeto em HTML</title>
+</head>
+
+<body>
+ <h1>Meu terceiro projeto em HTML</h1>
+</body>
+
 </html>   
 ´´´
